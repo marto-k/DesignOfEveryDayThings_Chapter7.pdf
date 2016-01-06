@@ -17,10 +17,10 @@ In this chapter the following will be discussed:1.summary of the main principles
 
 Here are :
 #####seven principles for transforming difficult tasks into simple ones
-          i.*use of knowledge in the world and the head.*
-          ii.*simplify the structure of tasks.*
-          iii.*make things visible.*
-          iv.*Get mappings right.*
-          v.*exploit natural and artificial power of constraints.*
-          vi.*Design for error*
-          viii.*when all else fail,starndadize*
+          *i.use of knowledge in the world and the head.*
+          *ii.simplify the structure of tasks.*
+          *iii.make things visible.*
+          *iv.Get mappings right.*
+          *v.exploit natural and artificial power of constraints.*
+          *vi.Design for error*
+          *viii.when all else fail,starndadize*
