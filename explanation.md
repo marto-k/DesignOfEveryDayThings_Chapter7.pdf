@@ -15,8 +15,9 @@ In this chapter the following will be discussed:1.summary of the main principles
                     
 #######*The design should make sure  that the user is able to configure what is happening and make sure that the design crosses in a valid meaning to the user.*
 
-Here are : #####seven principles for transforming difficult tasks into simple ones
-          1.use of knowledge in the world and the head.
-          2.simplify the structure of tasks.
-          3.make things visible.
-          4.Get mappings right.
+Here are :
+#####seven principles for transforming difficult tasks into simple ones
+          i.use of knowledge in the world and the head.
+          ii.simplify the structure of tasks.
+          iii.make things visible.
+          iv.Get mappings right.
