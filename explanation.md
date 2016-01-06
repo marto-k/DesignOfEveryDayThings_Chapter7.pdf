@@ -8,7 +8,8 @@ image
                                                    2.discussion of the implications,
                                                    3.offering of suggestions.</p>
 
-####*Design should*:i.Make it easy to determine actions to be followed.
+####*Design should*:
+                    i.Make it easy to determine actions to be followed.
                     ii.make things visible.
                     iii.make it easy for evaluation.
                     
