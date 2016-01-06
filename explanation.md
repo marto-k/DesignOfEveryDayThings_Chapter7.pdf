@@ -13,3 +13,4 @@ In this chapter the following will be discussed:1.summary of the main principles
                     ii.make things visible.
                     iii.make it easy for evaluation.
                     
+#######*The design should make sure  that the user is able to configure what is happening and make sure that the design crosses in a valid meaning to the user.*
