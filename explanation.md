@@ -24,3 +24,4 @@ Here are :
           *v.exploit natural and artificial power of constraints.*
           *vi.Design for error*
           *viii.when all else fail,starndadize*
+          
