@@ -29,4 +29,5 @@ Here are :
           ---
           #####i.use of knowledge in the world and the head.
           ---
+         -Tasks require you to implement knowledge you have to execute them.In implementing tasks you can either acqiure knowledge internally or externally.Internally is where you acqiure knowledge officially but externally is where you acqiure knowledge unofficially.
           
