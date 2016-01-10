@@ -37,7 +37,7 @@ Tasks require you to implement knowledge you have to execute them.In implementin
              iii.System image
 <h4>ROLE OF MANUALS.<h4>
 <em>Manuals are useful in the sense that they help the customers know how to operate a certain task in the design model.But manuals dont usually have every detail on the design model being  used.</em>
-#####ii.SIMPIFY THE STRUCTURE OF TASKS.
+<h5>ii.SIMPIFY THE STRUCTURE OF TASKS.</h5>
 The tasks can be simplified using technological innovations.
 Tasks can be fast to get.But some tasks depend on the piece of information in the tasks.
 The fast to get are stored in Long term memory elsewise hard to get are  stored in short term memory.
@@ -66,16 +66,37 @@ Exploit natural mappings:The user should determine the relationships between the
 Constaraints  are used to make the user feel there is only one possible action to be done.
 <h6>DESIGN FOR ERROR</h6> 
 This is shows the user the error and tries to make the user think that their option is considered but gives them a  solution of the ans.
+
 <h6>WHEN ALL ELSE FAILS,STANDARDIZE</h6>
+Standardaizing is a good  hence problem solving situation where it brings  one understanding to the user
+
 <h6>STANDARDIZATION AND TECNOLOGY</h6>
+This happens where the designer chooses the type of standardization due to tecnological effects
+
 <h6>THE TIMING OF STNDARDIZATION</h6>
+This is where the newness of the design model matters.The best time to do this is much later after the launch of the model design to ensure no mistakes come forth
+
 <b>Deliberately making things difficult</b>
+This is necessary when you are precautioning over issues such as handicap,children safety etc.example for this a door whose open handle is on top of door and a push handle  at center.
 
 <h5>DESIGNING A DUNGEONS AND DRAGONS GAME</h5>
+This is a game where requires one to figure out a solution to thrive hence making experinced gamers more intimate about playing the game
+
 <h4>EASY LOOKING IS  NOT NECESSARILLY EASY TO USE</h4>
+These are model used to do something.eg.game pad.may look easy to use but the design function is what matters.
+
 <b>Design and society</b>
+The society is rapidly changing whereby new fashions have emerged hence knocking off old designs.This is a major influence to user on the model usage.
+
 <h4>HOW WRITING METHOD AFFECTS STYLE</h4>
+The style has been tampered whreby technological innovations such as computers have changed how people edit texts and formats used for writing.
+
 <h6>FROM QUIL AND INK TO KEYBORD AND MICROPHONE</h6>
+This has made it better for users to write and read texts from technology than on paper,which is an example of design and society  change
 <h6>OUTLINE PROCESSORS AND HYPERTEXT</h6>
+These have come up due to birth of  computers which have caused new rules to emerge.
 <h3>THE HOME OF THE FUTURE:A PLACE OF COMFORT OR A NEW SOURCE OF FRUSTRATION</h3>
+This is being brought about by the differences between the automobilization and original forms of design models that bring about differences in operation of models.
+
 <h7>The Design of Everyday Things</h7> 
+The designers and users view design in different perspectives whereby users dont have full knowledge of design models today where as the designers know all about them
