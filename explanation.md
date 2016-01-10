@@ -54,3 +54,4 @@ i.Some tasks that exist today in their normal forms are results of the evolution
                        ii.a digital clock which evolved from a bell and altimeters.
 <h3>5.DONT TAKE AWAY CONTROL</h3>
 i.Automation is good but overautomation may cause one to lose proffessional reliance of the task.eg:a plane breaking down so the pilot loses control of the plane hence accepting end result.means he/she is a servant tto the task.
+<mark><h5>MAKE THINGS VISIBLE:BRIDGE THE GULFS OF EXECUTION AND EVALUATION</h5></mark>
