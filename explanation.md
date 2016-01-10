@@ -78,4 +78,4 @@ This is shows the user the error and tries to make the user think that their opt
 <h6>FROM QUIL AND INK TO KEYBORD AND MICROPHONE</h6>
 <h6>OUTLINE PROCESSORS AND HYPERTEXT</h6>
 <h3>THE HOME OF THE FUTURE:A PLACE OF COMFORT OR A NEW SOURCE OF FRUSTRATION</h3>
-<h7>The Design of Everyday Things</h7>
+<h7>The Design of Everyday Things</h7> 
