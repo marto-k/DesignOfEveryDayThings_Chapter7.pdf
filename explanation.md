@@ -32,9 +32,9 @@ Here are :
 Tasks require you to implement knowledge you have to execute them.In implementing tasks you can either acqiure knowledge internally or externally.Internally is where you acqiure knowledge officially but externally is where you acqiure knowledge unofficially.
 
 ####THREE CONCEPTUAL MODELS: 
-i.Design model
-ii.User model
-iii.System image
+             i.Design model
+             ii.User model
+             iii.System image
 <h4>ROLE OF MANUALS.<h4>
 <em>Manuals are useful in the sense that they help the customers know how to operate a certain task in the design model.But manuals dont usually have every detail on the design model being  used.</em>
 #####ii.SIMPIFY THE STRUCTURE OF TASKS.
