@@ -41,4 +41,8 @@ Long tasks in order to be stored in long term memory need technological innovati
 i.Here some tasks  have much information which the brain cannot contain,so some items such as notebooks,computers are used to store information.
 <h3>2.Use technology to make visible what is invisible thus improving feedback  and ability to keep control</h3>
 i.Some tasks have hidden information that needs more clarification for one to understand.Such as the computers.They provide easier notes which bring out a clearer meaning.
-
+<h3>Automate but keep the task much the same</h3>
+i.Here the topic explains that the long tasks sometimes need to be shortened so that the task completion can be easy so the task is reduced  to a small amount of task.some people remove some parts of the tasks changing the meaning of the tasks.
+<h3>Change the nature of the task</h3>
+i.Some tasks that exist today in their normal forms are results of the evolution of the tasks whereby the tasks have been made easier to deal with.eg.i.shoe lace evolved into a hold and loop.
+                       ii.a digital clock which evolved from a bell
