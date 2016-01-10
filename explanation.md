@@ -46,3 +46,5 @@ i.Here the topic explains that the long tasks sometimes need to be shortened so 
 <h3>4.Change the nature of the task</h3>
 i.Some tasks that exist today in their normal forms are results of the evolution of the tasks whereby the tasks have been made easier to deal with.eg.i.shoe lace evolved into a hold and loop.
                        ii.a digital clock which evolved from a bell and altimeters.
+<h3>5.DONT TAKE AWAY CONTROL</h3>
+i.Automation is good but overautomation may cause one to lose proffessional reliance of the task.eg:a plane breaking down so the pilot loses control of the plane hence accepting end result.means he/she is a servant tto the task.
