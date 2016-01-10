@@ -63,4 +63,19 @@ Exploit natural mappings:The user should determine the relationships between the
           iii.Actual system state and what is perceivable by sight sound or feel.
           iv.perceved system state and the needs intentions and expectations of the user.
 #####v.EXPLOIT THE POWER OF CONSTRAINTS,BOTH NATURAL AND ARTIFICIAL.
+Constaraints  are used to make the user feel there is only one possible action to be done.
+<h6>DESIGN FOR ERROR</h6> 
+This is shows the user the error and tries to make the user think that their option is considered but gives them a  solution of the ans.
+<h6>WHEN ALL ELSE FAILS,STANDARDIZE</h6>
+<h6>STANDARDIZATION AND TECNOLOGY</h6>
+<h6>THE TIMING OF STNDARDIZATION</h6>
+<b>Deliberately making things difficult</b>
 
+<h5>DESIGNING A DUNGEONS AND DRAGONS GAME</h5>
+<h4>EASY LOOKING IS  NOT NECESSARILLY EASY TO USE</h4>
+<b>Design and society</b>
+<h4>HOW WRITING METHOD AFFECTS STYLE</h4>
+<h6>FROM QUIL AND INK TO KEYBORD AND MICROPHONE</h6>
+<h6>OUTLINE PROCESSORS AND HYPERTEXT</h6>
+<h3>THE HOME OF THE FUTURE:A PLACE OF COMFORT OR A NEW SOURCE OF FRUSTRATION</h3>
+<h7>The Design of Everyday Things</h7>
