@@ -98,5 +98,5 @@ These have come up due to birth of  computers which have caused new rules to eme
 <h3>THE HOME OF THE FUTURE:A PLACE OF COMFORT OR A NEW SOURCE OF FRUSTRATION</h3>
 This is being brought about by the differences between the automobilization and original forms of design models that bring about differences in operation of models.
 
-<h7>The Design of Everyday Things</h7> 
+<h5>The Design of Everyday Things</h5> 
 The designers and users view design in different perspectives whereby users dont have full knowledge of design models today where as the designers know all about them
