@@ -31,14 +31,13 @@ Here are :
 ---
 Tasks require you to implement knowledge you have to execute them.In implementing tasks you can either acqiure knowledge internally or externally.Internally is where you acqiure knowledge officially but externally is where you acqiure knowledge unofficially.
 
-####THREE CONCEPTUAL MODELS:
-    1.Design model
-    2.user model
-    3.System image.
----    
-**The role of manuals**
-They are meant to give the user an idea of how to use the designed model.
----
-#####ii.simplify the structure of tasks.
----
-
+####THREE CONCEPTUAL MODELS: 
+The tasks can be simplified using technological innovations.
+Tasks can be fast to get.But some tasks depend on the piece of information in the tasks.
+The fast to get are stored in Long term memory elsewise hard to get are  stored in short term memory.
+Long tasks in order to be stored in long term memory need technological innovations.
+<h2>Four major technological innovattions can be followed:</h2>
+<h3>1.Keep the task much the same but provide mental aids</h3>
+i.Here some tasks  have much information which the brain cannot contain,so some items such as notebooks,computers are used to store information.
+<h3>2.Use technology to make visible what is invisible thus improving feedback  and ability to keep control</h3>
+ii.Some tasks have hidden information that needs more clarification for one to understand.Such as the computers.They provide easier notes which bring out a clearer meaning.
