@@ -27,7 +27,7 @@ Here are :
 ---
 #######*Evaluating the seven principles:*
 ---
-#####i.USE OF KNOWLEDGE IN THE WORLD AND THE HEAD.
+<mark>#####i.USE OF KNOWLEDGE IN THE WORLD AND THE HEAD.</mark>
 ---
 Tasks require you to implement knowledge you have to execute them.In implementing tasks you can either acqiure knowledge internally or externally.Internally is where you acqiure knowledge officially but externally is where you acqiure knowledge unofficially.
 
@@ -37,7 +37,7 @@ Tasks require you to implement knowledge you have to execute them.In implementin
              iii.System image
 <h4>ROLE OF MANUALS.<h4>
 <em>Manuals are useful in the sense that they help the customers know how to operate a certain task in the design model.But manuals dont usually have every detail on the design model being  used.</em>
-#####ii.SIMPIFY THE STRUCTURE OF TASKS.
+<mark>#####ii.SIMPIFY THE STRUCTURE OF TASKS.</mark>
 The tasks can be simplified using technological innovations.
 Tasks can be fast to get.But some tasks depend on the piece of information in the tasks.
 The fast to get are stored in Long term memory elsewise hard to get are  stored in short term memory.
