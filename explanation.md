@@ -99,7 +99,9 @@ The outline processors are ones which help in arranging the work of the texts li
 The hypertext is the one that highlights the texts or shows texts in form of underlining.
 
 <h3>THE HOME OF THE FUTURE:A PLACE OF COMFORT OR A NEW SOURCE OF FRUSTRATION</h3>
-This is being brought about by the differences between the automobilization and original forms of design models that bring about differences in operation of models.
+As the design models change the smart house is one that is wished to come whereby automobilization will occur where you will have to do everything without physically working on it.
+This is said in the future will have differences where users will not have adequate knowledge to know how the design model which will be a major problem and on the other hand the user will have an easy time working on his /her things.the both conditions will have contrasts.
+
 
 <h5>The Design of Everyday Things</h5> 
 The designers and users view design in different perspectives whereby users dont have full knowledge of design models today where as the designers know all about them.
