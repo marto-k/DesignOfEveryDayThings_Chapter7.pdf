@@ -76,7 +76,7 @@ This happens where the designer chooses the type of standardization due to tecno
 <h6>THE TIMING OF STNDARDIZATION</h6>
 This is where the newness of the design model matters.The best time to do this is much later after the launch of the model design to ensure no mistakes come forth
 
-<b>Deliberately making things difficult</b>
+<h5>Deliberately making things difficult</h5>
 This is necessary when you are precautioning over issues such as handicap,children safety etc.example for this a door whose open handle is on top of door and a push handle  at center.
 
 <h5>DESIGNING A DUNGEONS AND DRAGONS GAME</h5>
