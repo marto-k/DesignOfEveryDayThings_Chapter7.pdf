@@ -54,15 +54,15 @@ i.Some tasks that exist today in their normal forms are results of the evolution
                        ii.a digital clock which evolved from a bell and altimeters.
 <h3>5.DONT TAKE AWAY CONTROL</h3>
 i.Automation is good but overautomation may cause one to lose proffessional reliance of the task.eg:a plane breaking down so the pilot loses control of the plane hence accepting end result.means he/she is a servant tto the task.
-#####iii.MAKE THINGS VISIBLE:BRIDGE THE GULFS OF EXECUTION AND EVALUATION
+<h5>iii.MAKE THINGS VISIBLE:BRIDGE THE GULFS OF EXECUTION AND EVALUATION</h5>
 The system image plays a key role in the customer realization of how a certain system works.eg.the cd player and the remote with a mettallic aerial like rod.
-#####iv.GET THE MAPPINGS RIGHT
+<h5>iv.GET THE MAPPINGS RIGHT</h5>
 Exploit natural mappings:The user should determine the relationships between the:
           i.Intentions and possible actions.
           ii.Actions and their effects on the system.
           iii.Actual system state and what is perceivable by sight sound or feel.
           iv.perceved system state and the needs intentions and expectations of the user.
-#####v.EXPLOIT THE POWER OF CONSTRAINTS,BOTH NATURAL AND ARTIFICIAL.
+<h5>v.EXPLOIT THE POWER OF CONSTRAINTS,BOTH NATURAL AND ARTIFICIAL.</h5>
 Constaraints  are used to make the user feel there is only one possible action to be done.
 <h6>DESIGN FOR ERROR</h6> 
 This is shows the user the error and tries to make the user think that their option is considered but gives them a  solution of the ans.
