@@ -93,10 +93,13 @@ The style has been tampered whreby technological innovations such as computers h
 
 <h6>FROM QUIL AND INK TO KEYBORD AND MICROPHONE</h6>
 This has made it better for users to write and read texts from technology than on paper,which is an example of design and society  change
+
 <h6>OUTLINE PROCESSORS AND HYPERTEXT</h6>
-These have come up due to birth of  computers which have caused new rules to emerge.
+The outline processors are ones which help in arranging the work of the texts likewise to headings.This also  affects the format used for the text.
+The hypertext is the one that highlights the texts or shows texts in form of underlining.
+
 <h3>THE HOME OF THE FUTURE:A PLACE OF COMFORT OR A NEW SOURCE OF FRUSTRATION</h3>
 This is being brought about by the differences between the automobilization and original forms of design models that bring about differences in operation of models.
 
 <h5>The Design of Everyday Things</h5> 
-The designers and users view design in different perspectives whereby users dont have full knowledge of design models today where as the designers know all about them
+The designers and users view design in different perspectives whereby users dont have full knowledge of design models today where as the designers know all about them.
