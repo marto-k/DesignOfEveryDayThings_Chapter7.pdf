@@ -1,6 +1,6 @@
 #DesignOfEveryDayThings
 ---
-image
+![Alt text](http://file:///home/martin/Desktop/canvas.png "Optional title")
 ---
 <p>The point of  *POET*  is to advocate a user centered design,a  philosophy based on the needs and interests of the user,with an emphasis on making products usable and understandable.
 </p>
